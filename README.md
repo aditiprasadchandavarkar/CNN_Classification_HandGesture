@@ -22,7 +22,7 @@ The study compares **pretrained models** (MobileNetV2, ResNet50, VGG16) via tran
   - Training: 297  
   - Validation: 73  
 
-👉 Dataset link: [Google Drive Folder]([https://drive.google.com/drive/folders/1AAhKf8HhBpPOL3C9ae3bvDFjO6zumBem?usp=sharing](https://drive.google.com/drive/folders/1yGLGg8yjLV5OGjN5AYH_3WECdPSh-TSD?usp=sharing))
+👉 Dataset: Uploaded in Repository
 
 ---
 
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 ### 4. Download and place dataset
 
-Download the dataset from the [Google Drive link]([https://drive.google.com/drive/folders/1AAhKf8HhBpPOL3C9ae3bvDFjO6zumBem?usp=sharing](https://drive.google.com/drive/folders/1yGLGg8yjLV5OGjN5AYH_3WECdPSh-TSD?usp=sharing)) and place it inside the `data/` folder.
+Download the dataset from the repository and place it inside the `data/` folder.
 
 ### 5. Train a model
 
